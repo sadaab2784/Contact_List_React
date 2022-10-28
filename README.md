@@ -1,5 +1,7 @@
 # Contact_List
 
+Contact List display user contacts and user can edit, delete and add new contact to the list..
+
 ## Hosted Link:
 https://sadaab2784-contact-list001.netlify.app
 
