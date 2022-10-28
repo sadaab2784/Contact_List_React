@@ -6,7 +6,7 @@ Contact List display user contacts and user can edit, delete and add new contact
 https://sadaab2784-contact-list001.netlify.app
 
 
-## All the list of the Contact in this Project
+## All the list of the Contact shows in this Project
 ![Contact-List](https://user-images.githubusercontent.com/106314415/198561274-d09ad333-36ef-4693-80b0-45d3fea539e6.png)
 
 <br>
