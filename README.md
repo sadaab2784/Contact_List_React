@@ -1,4 +1,7 @@
 # Contact_List
+This Skill Test is to demonstrate the functionality of REST API Calls. On successful API call, we get response from server which is displayed through bootstrap Model Componenet.
+
+React || React-Bootstrap || REST API
 
 Contact List display user contacts and user can edit, delete and add new contact to the list..
 
